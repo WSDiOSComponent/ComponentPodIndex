@@ -1,0 +1,2 @@
+# ComponentPodIndex
+restore index files
